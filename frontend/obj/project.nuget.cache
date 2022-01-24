@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VbUZk8f+pet5WJ0Dc35T/DLOyDS160mhtSeYyoU5IdMIYiHXiLPAzLPZ8CV+xOkO4ulaMMXJJFwgA24oQQnoA==",
+  "success": true,
+  "projectFilePath": "G:\\t1\\microservices\\frontend\\frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.extensions.configuration.keyperfile\\3.1.3\\microsoft.extensions.configuration.keyperfile.3.1.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.tye.extensions.configuration\\0.2.0-alpha.20258.3\\microsoft.tye.extensions.configuration.0.2.0-alpha.20258.3.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\varun\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
