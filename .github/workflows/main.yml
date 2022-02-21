@@ -38,6 +38,13 @@ jobs:
       with:
         method: kubeconfig
         kubeconfig: ${{ secrets.KUBE_CONFIG }}
+        
+    - name: undeploy
+      run: |
+        tye undeploy
+      
+     
+    
 
  
 
