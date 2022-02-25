@@ -41,9 +41,7 @@ jobs:
         
     
         
-    - name: Cmdline@2
-      run: |
-       kubectl rollout restart deployment/frontend
+
      
     
 
@@ -52,3 +50,8 @@ jobs:
     - name: ☸ tye deploy
       run: |
         tye deploy -v Debug
+        
+        
+    - name: Cmdline@2
+      run: |
+       kubectl rollout restart deployment/frontend
