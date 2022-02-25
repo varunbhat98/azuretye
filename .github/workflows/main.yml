@@ -43,7 +43,7 @@ jobs:
         
     - name: Cmdline@2
       run: |
-       kubectl rollo ut restart deployment/frontend
+       kubectl rollout restart deployment/frontend
      
     
 
