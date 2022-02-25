@@ -39,10 +39,11 @@ jobs:
         method: kubeconfig
         kubeconfig: ${{ secrets.KUBE_CONFIG }}
         
-    - name: undeploy
+    
+        
+    - name: Cmdline@2
       run: |
-        tye undeploy
-      
+       kubectl rollo ut restart deployment/frontend
      
     
 
